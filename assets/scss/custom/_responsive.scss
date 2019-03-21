@@ -262,7 +262,6 @@
         }
     } 
     
-
     .info-profile { 
         .small-avatar {
             .avatar-update {
@@ -302,6 +301,13 @@
     .progress-circle-wrapper {
         width: 50%;
         margin-bottom: 20px;
+    }
+
+    .skill-progress-circle {
+        .skill-button-add {
+            width: 100%;
+            margin-bottom: 0;
+        }
     }
 
     .skill-button-add {
